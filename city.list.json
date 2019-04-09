@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1850147,
+    "name": "Tokyo",
+    "country": "JP",
+    "coord": {
+      "lon": 139.691711,
+      "lat": 35.689499
+    }
+  },
+  {
+    "id": 2127436,
+    "name": "Yokohama",
+    "country": "JP",
+    "coord": {
+      "lon": 141.25,
+      "lat": 41.083328
+    }
+  },
+  {
+    "id": 1857910,
+    "name": "Kyoto",
+    "country": "JP",
+    "coord": {
+      "lon": 135.753845,
+      "lat": 35.021069
+    }
+  },
+  {
+    "id": 1853908,
+    "name": "Osaka",
+    "country": "JP",
+    "coord": {
+      "lon": 137.266663,
+      "lat": 35.950001
+    }
+  },
+  {
+    "id": 2128295,
+    "name": "Sapporo-shi",
+    "country": "JP",
+    "coord": {
+      "lon": 141.346939,
+      "lat": 43.064171
+    }
+  },
+  {
+    "id": 1856057,
+    "name": "Nagoya-shi",
+    "country": "JP",
+    "coord": {
+      "lon": 136.906403,
+      "lat": 35.181469
+    }
+  }
+]
