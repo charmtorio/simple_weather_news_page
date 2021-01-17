@@ -34,11 +34,10 @@
 		<div class="site-content">
 			<div class="site-header">
 				<div class="container">
-					<a href="index.html" class="branding">
+					<a href="index.php" class="branding">
 						<img src="images/logo.png" alt="" class="logo">
 						<div class="logo-type">
-							<h1 class="site-title">PH IT Developer Exam</h1>
-							<small class="site-description">Question 1</small>
+							<h1 class="site-title">PHP Exercise: Weather App</h1>
 						</div>
 					</a>
 
@@ -46,7 +45,7 @@
 					<div class="main-navigation">
 						<button type="button" class="menu-toggle"><i class="fa fa-bars"></i></button>
 						<ul class="menu">
-							<li class="menu-item current-menu-item"><a href="index.html">Home</a></li>
+							<!-- <li class="menu-item current-menu-item"><a href="index.html">Home</a></li> -->
 						</ul> <!-- .menu -->
 					</div> <!-- .main-navigation -->
 
@@ -77,7 +76,7 @@
 						<div class="today forecast">
 							<div class="forecast-header">
 								<div class="day">Today</div>
-								<div class="date">8 April</div>
+								<div class="date"><?php echo date('d F Y'); ?></div>
 							</div> <!-- .forecast-header -->
 							<div class="forecast-content">														
 						      <div id="openweathermap-widget-15"></div>
